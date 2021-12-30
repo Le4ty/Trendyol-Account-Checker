@@ -22,7 +22,7 @@ $data = '{"email":"USERNAME","password":"PASSWORD"}';
 
 curl_setopt($curl, CURLOPT_POSTFIELDS, $data);
 
-//for debug only!
+
 curl_setopt($curl, CURLOPT_SSL_VERIFYHOST, false);
 curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, false);
 
