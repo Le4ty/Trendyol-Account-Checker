@@ -1,2 +1,2 @@
-# Trendyol-Account-Checker
+# Trendyol Account Checker
 Trendyol Acoount Checker
